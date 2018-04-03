@@ -7,7 +7,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello World");
+	printf("Hello, my name is Guoli Hao");
 	return 0;
 }
 
