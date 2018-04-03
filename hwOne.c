@@ -7,7 +7,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello, my name is Guoli Hao");
+	printf("Goodbye, I finished my CS 256 HW1");
 	return 0;
 }
 
